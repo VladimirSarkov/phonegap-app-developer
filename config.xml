@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.adobe.phonegap.app" version="1.8.4" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>PhoneGap</name>
+<widget id="com.dealoy.www" version="1.8.4" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Dealoy</name>
     <description>
         The PhoneGap Developer app is a testing utility for web developers and designers using the PhoneGap framework. After installing this app on your device you will be able to connect it to the PhoneGap desktop app to instantly view and test your work
     </description>
@@ -41,7 +41,8 @@
         <icon height="58" src="resources/icon/ios/icon-small@2x.png" width="58" />
         <icon height="87" src="resources/icon/ios/icon-small@3x.png" width="87" />
         <icon height="1024" src="resources/icon/ios/icon-1024.png" width="1024" />
-        <splash height="480" src="resources/splash/ios/Default~iphone.png" width="320" />
+        <splash height="480" src="resources/splash/ios/Default~iphone.png" w
+                th="320" />
         <splash height="960" src="resources/splash/ios/Default@2x~iphone.png" width="640" />
         <splash height="1024" src="resources/splash/ios/Default-Portrait~ipad.png" width="768" />
         <splash height="2048" src="resources/splash/ios/Default-Portrait@2x~ipad.png" width="1536" />
